@@ -52,7 +52,7 @@ You can also create as many additional \*.skin files as you like.
 
 Go to the folder of your model (*C:\base\models\players\my_first_model*) and open the file *model_default.skin* with a text editor.
 
-The syntax of a *.kin file is: `<name of the object>,<path to the texture>`. Each object of the model must be listed here. It looks like this for our model:
+The syntax of a *.skin file is: `<name of the object>,<path to the texture>`. Each object of the model must be listed here. It looks like this for our model:
 
 ![\*.skin file](skin-file.png)
 

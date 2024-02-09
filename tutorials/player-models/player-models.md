@@ -15,4 +15,4 @@ Finally, it only remains for me to wish you lots of fun and success with this in
 - [Set up a hierarchy](set-up-a-hierarchy.md)
 - [Connect model and skeleton](connect-model-and-skeleton.md)
 - [Bringing the finished model into the game](into-the-game.md)
-- [Appendix]()
+- [Appendix](appendix.md)

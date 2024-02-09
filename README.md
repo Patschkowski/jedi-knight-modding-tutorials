@@ -16,3 +16,5 @@ This series of tutorials gives an overview of shaders and how to modify them wit
 ## Miscellaneous
 
 There is always a sad remnant that does not fit into any category. We want to pay homage to this remnant by listing these introductions here.
+
+- [Hiding Parts of a Model](tutorials/misc/hiding-model-parts.md)
