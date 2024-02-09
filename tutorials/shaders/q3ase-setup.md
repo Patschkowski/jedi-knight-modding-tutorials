@@ -1,6 +1,6 @@
 # Setting Up Q3ASE
 
-Q3ASE stands for "Quake 3 Arena Shader Editor". As you can see from the name, it is a program that was developed for Quake 3 Arena, which is why it unfortunately does not know the newer shader commands that the extended Quake Engine of the Jedi Knight series provides. Nevertheless, it is a very good program that has some advantages over the shader editor from the Jedi Knight SDK. It is clearer and easier to use and has a live 3D preview, even on your own 3D objects if you wish.
+Q3ASE stands for "Quake 3 Arena Shader Editor". As you can see from the name, it is a program that was developed for Quake 3 Arena, which is why it unfortunately does not know the newer shader commands that the extended Quake Engine of the Jedi Knight series provides. Nevertheless, it is a very good program that has some advantages over the shader editor from the Jedi Knight SDK (Software Development Kit). It is clearer and easier to use and has a live 3D preview, even on your own 3D objects if you wish.
 
 ## Goal
 
@@ -64,6 +64,3 @@ If you have done everything correctly up to this point, you should see this dial
 ![List of shaders known to Q3ASE](q3ase-shaders.png)
 
 Congratulations! You have successfully set up Q3ASE!
-
-*[Q3ASE]: Quake 3 Arena Shader Editor
-*[SDK]: Software Development Kit
