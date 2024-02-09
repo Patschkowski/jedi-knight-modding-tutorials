@@ -45,7 +45,7 @@ Each stage is surrounded by curved brackets. It is not recommended to use more t
 	    // Beginning of a stage
 	    {
          	// stage command
-		    map textures/my_texture/wal
+            map textures/my_texture/wal
 	    }
 	    //End of the stage
     }
