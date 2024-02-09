@@ -10,8 +10,8 @@ Finally, it only remains for me to wish you lots of fun and success with this in
 
 - [Set up the working environment](work-environment-setup.md)
 - [Modeling a character](character-modeling.md)
-- [Create UVW maps]()
-- [Painting a skin]()
+- [Create UVW maps](create-uvw-maps.md)
+- [Painting a skin](painting-a-skin.md)
 - [Set up a hierarchy]()
 - [Connect model and skeleton]()
 - [Bringing the finished model into the game]()
