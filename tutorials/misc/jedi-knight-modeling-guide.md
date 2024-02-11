@@ -246,15 +246,15 @@ Each skin file should be accompanied by a corresponding icon such that the playe
 
 Unfortunately, downloading gmax from TurboSquid is no longer possible. But you can get everything here instead.
 
-- [gmax12.exe](../../releases/download/gmax/gmax12.exe)
-- [gmax_eula.pdf](../../releases/download/gmax/gmax_eula.pdf)
-- [registration_policy_text.html](../../releases/download/gmax/registration_policy_text.html)
-- [gmax12_help.exe](../../releases/download/gmax/gmax12_help.exe)
-- [gmax12_tutorials.exe](../../releases/download/gmax/gmax12_tutorials.exe)
-- [library.exe](../../releases/download/gmax/library.exe)
-- [tempestinstall.exe](../../releases/download/gmax/tempestinstall.exe)
-- [beta_license_agreement_text.htm](../../releases/download/gmax/beta_license_agreement_text.htm)
-- [gmax_tempest_install_guide.pdf](../../releases/download/gmax/gmax_tempest_install_guide.pdf)
+- [gmax12.exe](https://github.com/Patschkowski/jedi-knight-modding-tutorials/releases/download/gmax/gmax12.exe)
+- [gmax_eula.pdf](https://github.com/Patschkowski/jedi-knight-modding-tutorials/releases/download/gmax/gmax_eula.pdf)
+- [registration_policy_text.html](https://github.com/Patschkowski/jedi-knight-modding-tutorials/releases/download/gmax/registration_policy_text.html)
+- [gmax12_help.exe](https://github.com/Patschkowski/jedi-knight-modding-tutorials/releases/download/gmax/gmax12_help.exe)
+- [gmax12_tutorials.exe](https://github.com/Patschkowski/jedi-knight-modding-tutorials/releases/download/gmax/gmax12_tutorials.exe)
+- [library.exe](https://github.com/Patschkowski/jedi-knight-modding-tutorials/releases/download/gmax/library.exe)
+- [tempestinstall.exe](https://github.com/Patschkowski/jedi-knight-modding-tutorials/releases/download/gmax/tempestinstall.exe)
+- [beta_license_agreement_text.htm](https://github.com/Patschkowski/jedi-knight-modding-tutorials/releases/download/gmax/beta_license_agreement_text.htm)
+- [gmax_tempest_install_guide.pdf](https://github.com/Patschkowski/jedi-knight-modding-tutorials/releases/download/gmax/gmax_tempest_install_guide.pdf)
 
 gmax requires a registration code that one could get in the old days from TurboSquid as well. Try this one: `406D3EEAE53C503A45943BE247DD1C2366423C47B914C359`
 
