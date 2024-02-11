@@ -1,0 +1,865 @@
+REGEDIT4
+
+[HKEY_CURRENT_USER\Software\Autodesk]
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax]
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2]
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins]
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet]
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Vertex color utility and modifier (Discreet) - (430)]
+"DLLFile"="ApplyVC.dlu"
+"LibDescription"="Vertex color utility and modifier (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4664cd00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Vertex color utility and modifier (Discreet) - (430)\Assign Vertex Colors - (19576)]
+"Category"=""
+"ClassIDA"=dword:6e989195
+"ClassIDB"=dword:5dfb41b7
+"ClassName"="Assign Vertex Colors"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00001020
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Vertex color utility and modifier (Discreet) - (430)\Vertex Colors - (2250)]
+"Category"=""
+"ClassIDA"=dword:104170cc
+"ClassIDB"=dword:66373204
+"ClassName"="Vertex Colors"
+"IsPublic"=dword:00000000
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000006
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Custom curve control (Discreet) - (6450)]
+"DLLFile"="CurveControl.dlu"
+"LibDescription"="Custom curve control (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4664cd00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Custom curve control (Discreet) - (6450)\CurveControl - (1420)]
+"Category"=""
+"ClassIDA"=dword:14585773
+"ClassIDB"=dword:483a7dcf
+"ClassName"="CurveControl"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000100
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Custom curve control (Discreet) - (6450)\ - (24252)]
+"Category"=""
+"ClassIDA"=dword:5f2d3a0a
+"ClassIDB"=dword:4be75269
+"ClassName"=""
+"IsPublic"=dword:00000000
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000100
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\File finder utility (Discreet) - (21411)]
+"DLLFile"="UMaxFind.dlu"
+"LibDescription"="File finder utility (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:48c72700
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\File finder utility (Discreet) - (21411)\gmax File Finder - (8692)]
+"Category"=""
+"ClassIDA"=dword:72bb49f5
+"ClassIDB"=dword:a7a1cb4f
+"ClassName"="gmax File Finder"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00001020
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Geodesic sphere object (Discreet) - (25761)]
+"DLLFile"="gsphere.dlo"
+"LibDescription"="Geodesic sphere object (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4795fa00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Geodesic sphere object (Discreet) - (25761)\GeoSphere - (13740)]
+"Category"="Standard Primitives"
+"ClassIDA"=dword:00000000
+"ClassIDB"=dword:00007f9e
+"ClassName"="GeoSphere"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000010
+"InternalName"="GeoSphere"
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard helper objects (Discreet) - (20872)]
+"DLLFile"="helpers.dlo"
+"LibDescription"="Standard helper objects (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4795fa00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard helper objects (Discreet) - (20872)\Grid - (618)]
+"Category"=""
+"ClassIDA"=dword:00002010
+"ClassIDB"=dword:00000000
+"ClassName"="Grid"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000050
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard helper objects (Discreet) - (20872)\Point - (3599)]
+"Category"=""
+"ClassIDA"=dword:00002013
+"ClassIDB"=dword:00000000
+"ClassName"="Point"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000050
+"InternalName"="PointHelperObj"
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Bones modifier (Discreet) - (19760)]
+"DLLFile"="BulgeGizmo.DLM"
+"LibDescription"="Bones modifier (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4664cd00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Bones modifier (Discreet) - (19760)\Bulge Angle Deformer - (29389)]
+"Category"="BonesDefGizmoDeformer"
+"ClassIDA"=dword:0095c72e
+"ClassIDB"=dword:000f40d1
+"ClassName"="Bulge Angle Deformer"
+"IsPublic"=dword:00000000
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000200
+"InternalName"="gizmoBulge"
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Convert Modifiers (Discreet) - (32108)]
+"DLLFile"="Convert.dlm"
+"LibDescription"="Convert Modifiers (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4664cd00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Convert Modifiers (Discreet) - (32108)\Turn to Mesh - (15840)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:5c5b50f7
+"ClassIDB"=dword:60397ca1
+"ClassName"="Turn to Mesh"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="ConvertToMesh"
+"InputTypeA"=dword:00000006
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Convert Modifiers (Discreet) - (32108)\Turn to Poly - (9088)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:2f494e50
+"ClassIDB"=dword:5c376942
+"ClassName"="Turn to Poly"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="ConvertToPoly"
+"InputTypeA"=dword:00000006
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Convert Modifiers (Discreet) - (32108)\Turn to Patch - (26075)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:3c4b70d1
+"ClassIDB"=dword:232d27c5
+"ClassName"="Turn to Patch"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="ConvertToPatch"
+"InputTypeA"=dword:00000006
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Cross-section modifier (Discreet) - (19592)]
+"DLLFile"="crosssec.dlm"
+"LibDescription"="Cross-section modifier (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4664cd00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Cross-section modifier (Discreet) - (19592)\CrossSection - (14580)]
+"Category"="Surface Tools"
+"ClassIDA"=dword:13235684
+"ClassIDB"=dword:5dc7852e
+"ClassName"="CrossSection"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:0000000a
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\EditPatch and EditSpline Modifiers (discreet) - (21827)]
+"DLLFile"="EditPatch.dlm"
+"LibDescription"="EditPatch and EditSpline Modifiers (discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4664cd00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\EditPatch and EditSpline Modifiers (discreet) - (21827)\Edit Spline - (21194)]
+"Category"="MAX EDIT"
+"ClassIDA"=dword:00000060
+"ClassIDB"=dword:00000000
+"ClassName"="Edit Spline"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:0000000a
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\EditPatch and EditSpline Modifiers (discreet) - (21827)\Edit Patch - (15690)]
+"Category"="MAX EDIT"
+"ClassIDA"=dword:00000070
+"ClassIDB"=dword:00000000
+"ClassName"="Edit Patch"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00001030
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Mesh to lattice modifier (Discreet) - (1342)]
+"DLLFile"="lattice.dlm"
+"LibDescription"="Mesh to lattice modifier (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4795fa00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Mesh to lattice modifier (Discreet) - (1342)\SplineSelect - (17657)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:4dbe3132
+"ClassIDB"=dword:614357b9
+"ClassName"="SplineSelect"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:0000000a
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)]
+"DLLFile"="mods.dlm"
+"LibDescription"="Standard modifiers (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4795fa00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Bend - (13242)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:00000010
+"ClassIDB"=dword:00000000
+"ClassName"="Bend"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="BendMod"
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Taper - (29233)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:00000020
+"ClassIDB"=dword:00000000
+"ClassName"="Taper"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Edit Mesh - (20886)]
+"Category"="MAX EDIT"
+"ClassIDA"=dword:00000050
+"ClassIDB"=dword:00000000
+"ClassName"="Edit Mesh"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000009
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Twist - (2111)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:00000090
+"ClassIDB"=dword:00000000
+"ClassName"="Twist"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Extrude - (13863)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:000000a0
+"ClassIDB"=dword:00000000
+"ClassName"="Extrude"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:000000ab
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\XForm - (1396)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:25215824
+"ClassIDB"=dword:00000000
+"ClassName"="XForm"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Skew - (24687)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:6f3cc2aa
+"ClassIDB"=dword:00000000
+"ClassName"="Skew"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Noise - (14596)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:f997b124
+"ClassIDB"=dword:00000000
+"ClassName"="Noise"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Ripple - (26147)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:00000045
+"ClassIDB"=dword:00000000
+"ClassName"="Ripple"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Wave - (8157)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:00000047
+"ClassIDB"=dword:00000000
+"ClassName"="Wave"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Optimize - (15962)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:000c4d31
+"ClassIDB"=dword:00000000
+"ClassName"="Optimize"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000009
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Displace - (4882)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:000c4d32
+"ClassIDB"=dword:00000000
+"ClassName"="Displace"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Linked XForm - (2767)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:000c4d33
+"ClassIDB"=dword:00000000
+"ClassName"="Linked XForm"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="LinkedXForm"
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\UVW Map - (28317)]
+"Category"="MAX SURFACE"
+"ClassIDA"=dword:000f72b1
+"ClassIDB"=dword:00000000
+"ClassName"="UVW Map"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000006
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Vol. Select - (7185)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:000f8611
+"ClassIDB"=dword:00000000
+"ClassName"="Vol. Select"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="VolumeSelect"
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Smooth - (6984)]
+"Category"="MAX SURFACE"
+"ClassIDA"=dword:000f8613
+"ClassIDB"=dword:00000000
+"ClassName"="Smooth"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="SmoothModifier"
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Material - (4185)]
+"Category"="MAX SURFACE"
+"ClassIDA"=dword:000f8612
+"ClassIDB"=dword:00000000
+"ClassName"="Material"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Normal - (31928)]
+"Category"="MAX SURFACE"
+"ClassIDA"=dword:000f8614
+"ClassIDB"=dword:00000000
+"ClassName"="Normal"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Lathe - (10712)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:000000b0
+"ClassIDB"=dword:00000000
+"ClassName"="Lathe"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:000000ab
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Reset XForm - (3309)]
+"Category"=""
+"ClassIDA"=dword:8d562b81
+"ClassIDB"=dword:00000000
+"ClassName"="Reset XForm"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00001020
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Affect Region - (8386)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:000c4e32
+"ClassIDB"=dword:00000000
+"ClassName"="Affect Region"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Tessellate - (30905)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:a3b26ff2
+"ClassIDB"=dword:00000000
+"ClassName"="Tessellate"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000006
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\DeleteMesh - (5728)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:f826ee01
+"ClassIDB"=dword:00000000
+"ClassName"="DeleteMesh"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000009
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Mesh Select - (27900)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:73d8ff93
+"ClassIDB"=dword:00000000
+"ClassName"="Mesh Select"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="MeshSelect"
+"InputTypeA"=dword:00000009
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Face Extrude - (14821)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:000c3a32
+"ClassIDB"=dword:00000000
+"ClassName"="Face Extrude"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000009
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\UVW Xform - (675)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:5f32de12
+"ClassIDB"=dword:00000000
+"ClassName"="UVW Xform"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000006
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Mirror - (29930)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:ef92aa7c
+"ClassIDB"=dword:511bbe75
+"ClassName"="Mirror"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\DeleteSpline - (26558)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:120f2c0c
+"ClassIDB"=dword:00000000
+"ClassName"="DeleteSpline"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:0000000a
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\Normalize Spl. - (25781)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:1c450e5c
+"ClassIDB"=dword:2e0e0902
+"ClassName"="Normalize Spl."
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="Normalize_Spline"
+"InputTypeA"=dword:0000000a
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (30003)\DeletePatch - (5674)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:7f34cc2a
+"ClassIDB"=dword:00000000
+"ClassName"="DeletePatch"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00001030
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Mesh smoothing modifier (Discreet) - (20143)]
+"DLLFile"="msmooth.dlm"
+"LibDescription"="Mesh smoothing modifier (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4795fa00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Mesh smoothing modifier (Discreet) - (20143)\MeshSmooth - (11422)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:00000032
+"ClassIDB"=dword:00007f9e
+"ClassName"="MeshSmooth"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InternalName"="MeshSmooth"
+"InputTypeA"=dword:00000006
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (29126)]
+"DLLFile"="PatchSel.dlm"
+"LibDescription"="Standard modifiers (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4795fa00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Standard modifiers (Discreet) - (29126)\Patch Select - (25891)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:19592732
+"ClassIDB"=dword:03407a7a
+"ClassName"="Patch Select"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00001030
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Surface, path and patch deformers (Discreet) - (25472)]
+"DLLFile"="pathdef.dlm"
+"LibDescription"="Surface, path and patch deformers (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:48c72700
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Surface, path and patch deformers (Discreet) - (25472)\PathDeform - (15418)]
+"Category"=""
+"ClassIDA"=dword:7f476a93
+"ClassIDB"=dword:2b963407
+"ClassName"="PathDeform"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Surface, path and patch deformers (Discreet) - (25472)\PatchDeform - (24335)]
+"Category"=""
+"ClassIDA"=dword:653023a4
+"ClassIDB"=dword:72b96f59
+"ClassName"="PatchDeform"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Map scaler world space modifier (Discreet) - (13882)]
+"DLLFile"="physmap.dlm"
+"LibDescription"="Map scaler world space modifier (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:48c72700
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Map scaler world space modifier (Discreet) - (13882)\MapScaler - (23978)]
+"Category"=""
+"ClassIDA"=dword:00dada00
+"ClassIDB"=dword:00000000
+"ClassName"="MapScaler"
+"IsPublic"=dword:00000000
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000830
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Map scaler world space modifier (Discreet) - (13882)\MapScaler - (23734)]
+"Category"=""
+"ClassIDA"=dword:00dadada
+"ClassIDB"=dword:00000000
+"ClassName"="MapScaler"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000820
+"InputTypeA"=dword:00000009
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Relax and Push modifiers (Discreet) - (19182)]
+"DLLFile"="relax.dlm"
+"LibDescription"="Relax and Push modifiers (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:48c72700
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Relax and Push modifiers (Discreet) - (19182)\Relax - (7139)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:00000064
+"ClassIDB"=dword:00007f9e
+"ClassName"="Relax"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Relax and Push modifiers (Discreet) - (19182)\Push - (32028)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:0618372d
+"ClassIDB"=dword:67ad0adf
+"ClassName"="Push"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000005
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Surface tools modifier (Discreet) - (10325)]
+"DLLFile"="surface.dlm"
+"LibDescription"="Surface tools modifier (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:48c72700
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Surface tools modifier (Discreet) - (10325)\Surface - (6252)]
+"Category"="Surface Tools"
+"ClassIDA"=dword:13285684
+"ClassIDB"=dword:5dc6752e
+"ClassName"="Surface"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:0000000a
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Vertex-color painting modifier (Discreet) - (6035)]
+"DLLFile"="VertexPaint.dlm"
+"LibDescription"="Vertex-color painting modifier (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:49f85400
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Vertex-color painting modifier (Discreet) - (6035)\VertexPaint - (32204)]
+"Category"="MAX STANDARD"
+"ClassIDA"=dword:663b6fab
+"ClassIDB"=dword:73f47385
+"ClassName"="VertexPaint"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000810
+"InputTypeA"=dword:00000006
+"InputTypeB"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\JPEG file I/O (Discreet) - (27210)]
+"DLLFile"="jpeg.bmi"
+"LibDescription"="JPEG file I/O (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4795fa00
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\JPEG file I/O (Discreet) - (27210)\JPEG - (10435)]
+"Category"="Bitmap I/O"
+"ClassIDA"=dword:0000000c
+"ClassIDB"=dword:00000000
+"ClassName"="JPEG"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000b30
+"InternalName"="jpegio"
+"ShortDesc"="JPEG"
+"LongDesc"="JPEG File"
+"Capability"=dword:40000007
+"ExtCount"=dword:00000003
+"Ext"="jpg;jpe;jpeg"
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Targa file I/O (Discreet) - (32047)]
+"DLLFile"="targa.bmi"
+"LibDescription"="Targa file I/O (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:48c72700
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Targa file I/O (Discreet) - (32047)\Targa - (15702)]
+"Category"="Bitmap I/O"
+"ClassIDA"=dword:00000006
+"ClassIDB"=dword:00000000
+"ClassName"="Targa"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000b30
+"InternalName"="tgaio"
+"ShortDesc"="Targa"
+"LongDesc"="Targa Image File"
+"Capability"=dword:40000207
+"ExtCount"=dword:00000004
+"Ext"="tga;vda;icb;vst"
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\TIF file I/O (Discreet) - (15819)]
+"DLLFile"="tif.bmi"
+"LibDescription"="TIF file I/O (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:48c72700
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\TIF file I/O (Discreet) - (15819)\TIF - (19997)]
+"Category"="Bitmap I/O"
+"ClassIDA"=dword:0000fc12
+"ClassIDB"=dword:00000000
+"ClassName"="TIF"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00000b30
+"ShortDesc"="TIF"
+"LongDesc"="TIF Image File"
+"Capability"=dword:40000007
+"ExtCount"=dword:00000001
+"Ext"="tif"
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Map path editor utility (Discreet) - (10949)]
+"DLLFile"="MapPath.dlu"
+"LibDescription"="Map path editor utility (Discreet)"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4533a000
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Map path editor utility (Discreet) - (10949)\MapPath Editor - (25574)]
+"Category"=""
+"ClassIDA"=dword:a7d423ed
+"ClassIDB"=dword:64de98f9
+"ClassName"="MapPath Editor"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00001020
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Polygon Count Utility - (9064)]
+"DLLFile"="PolygonCount.dlu"
+"LibDescription"="Polygon Count Utility"
+"LibVersion"=dword:10688000
+"TimeStampLow"=dword:4533a000
+"TimeStampHigh"=dword:01c13b9d
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\4.2\Plug-ins\Discreet\Polygon Count Utility - (9064)\Polygon Counter - (23455)]
+"Category"=""
+"ClassIDA"=dword:2d63282b
+"ClassIDB"=dword:5aad3048
+"ClassName"="Polygon Counter"
+"IsPublic"=dword:00000001
+"OkToCreate"=dword:00000001
+"SuperClassID"=dword:00001020
+
+[HKEY_CURRENT_USER\Software\Autodesk\gmax\UserProfile]
+"Version"="v1.00"
+"UserID"="406D3EEAE53C503A45943BE247DD1C2366423C47B914C359"
+
+[HKEY_LOCAL_MACHINE\Software\Autodesk]
+
+[HKEY_LOCAL_MACHINE\Software\Autodesk\License]
+"istmp"="c:\\windows\\TEMP"
+"rtfs"="C:\\WINDOWS\\TEMP\\WZS90D0.TMP\\eula"
+"LicenseFile"="International.rtf"
+"sourcefile"="C:\\WINDOWS\\TEMP\\WZS90D0.TMP\\eula\\International.rtf"
+
+[HKEY_LOCAL_MACHINE\Software\Autodesk\gmax]
+"Version4"="4.2"
+"CurrentVersion"="4"
+
+[HKEY_LOCAL_MACHINE\Software\Autodesk\gmax\4.2]
+
+[HKEY_LOCAL_MACHINE\Software\Autodesk\gmax\4.2\Help]
+"gmax.chm"="C:\\GMAX\\Help"
+
