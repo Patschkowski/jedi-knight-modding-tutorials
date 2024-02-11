@@ -20,3 +20,4 @@ There is always a sad remnant that does not fit into any category. We want to pa
 - [Hiding Parts of a Model](tutorials/misc/hiding-model-parts.md)
 - [Classes in Siege](tutorials/misc/siege-classes.md)
 - [gmax Exporters](tutorials/misc/gmax-exporters.md)
+- [Complete Modeling Tutorial for JKA](tutorials/misc/jedi-knight-modeling-guide.md)

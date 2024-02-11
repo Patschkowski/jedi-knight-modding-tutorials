@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<svg width="160" height="160" viewBox="0 0 64 64" style="background: black" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <defs>
+                <polygon id="coord_arrow" points="-3,0 3,0 0,-4" />
+
+            </defs>
+            <g stroke-width="1">
+                <line x1="7" y1="32" x2="39" y2="51" stroke="red" />
+
+                <line x1="9" y1="59" x2="36" y2="12" stroke="green" />
+
+            </g>
+            <g fill="white" font-size="7" font-family="monospace">
+                <text x="28" y="62">front</text>
+                <text x="42" y="20">back</text>
+                <text x="3" y="13">right</text>
+                <text x="46" y="42">left</text>
+            </g>
+            <g font-family="monospace" font-size="9">
+                <g fill="green">
+                    <text x="44" y="12">+Y</text>
+                    <text x="15" y="62">-Y</text>
+                </g>
+                <g fill="red">
+                    <text x="45" y="54">+X</text>
+                    <text x="3" y="26">-X</text>
+                </g>
+            </g>
+            <g stroke-width="1" stroke="white">
+                <polygon points="20.05,39.75 33,47.44 34,15.48" />
+
+                <path d="M20.05,39.75 22.54,35.41 A5,5 0 0 1 24.35,42.30 z" />
+
+            </g>
+            <g fill="green">
+                <use xlink:href="#coord_arrow" transform="translate(9 59) rotate(-150.12)" />
+
+                <use xlink:href="#coord_arrow" transform="translate(36 12) rotate(29.88)" />
+
+            </g>
+            <g fill="red">
+                <use xlink:href="#coord_arrow" transform="translate(7 32) rotate(-59.30)" />
+
+                <use xlink:href="#coord_arrow" transform="translate(39 51) rotate(120.70)" />
+
+            </g>
+        </svg>

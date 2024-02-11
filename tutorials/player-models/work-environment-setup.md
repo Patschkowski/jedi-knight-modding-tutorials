@@ -9,6 +9,7 @@ In this tutorial you will learn which files and programs you need to create a ne
 - [XSI Mod Tool](https://www.moddb.com/downloads/autodesk-softimage-mod-tool-75)
 - A file archiver like [7-Zip](http://www.7-zip.org/)
 - ModView.exe, carcass.exe, Assimilate.exe; all included in the Software Development Kit (SDK)
+- [Jedi Knight 2 XSI skeleton](jk2-skeleton.exp) and/or [Jedi Academy XSI skeleton](jka-skeleton.exp)
 
 ## Steps
 
